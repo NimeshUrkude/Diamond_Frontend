@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Diamond_Frontend/static/css/main.404ef051.css",
+    "main.js": "/Diamond_Frontend/static/js/main.6a608b6f.js",
+    "static/media/predict_real.png": "/Diamond_Frontend/static/media/predict_real.a6efb8dc78331ec5381e.png",
+    "static/media/loss_epochs.png": "/Diamond_Frontend/static/media/loss_epochs.dd2a44fdf82191d42de2.png",
+    "static/media/model_layers.png": "/Diamond_Frontend/static/media/model_layers.3d1a5d3c47331d0af90e.png",
+    "static/media/errors.png": "/Diamond_Frontend/static/media/errors.237df92bfd0852b26f64.png",
+    "index.html": "/Diamond_Frontend/index.html",
+    "main.404ef051.css.map": "/Diamond_Frontend/static/css/main.404ef051.css.map",
+    "main.6a608b6f.js.map": "/Diamond_Frontend/static/js/main.6a608b6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404ef051.css",
+    "static/js/main.6a608b6f.js"
+  ]
+}

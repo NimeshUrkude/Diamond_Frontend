@@ -1,8 +1,9 @@
 # Diamond_Frontend
 
-This Repository is of Webiste of Showcase Diamond Value Prediction with Regression, Build on TensorflowJS and React.
+This Repository is of Webiste of Showcase Diamond Value Prediction with Regression, Build on TensorflowJS and React..
 
 Model Github : https://github.com/NimeshUrkude/Diamond_Regression_Model
+
 Frontend Link : https://nimeshurkude.github.io/Diamond_Frontend/
 
 # Website
